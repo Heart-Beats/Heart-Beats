@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <center>Heart-Beats </center>
 
 
-[![Heart-Beats's github stats](https://github-readme-stats.vercel.app/api?username=Heart-Beats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Heart-Beats's github stats](https://github-readme-stats.vercel.app/api?username=Heart-Beats&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
