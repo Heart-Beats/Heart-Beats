@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 
 <center>Heart-Beats </center>
 
-
 [![Heart-Beats's github stats](https://github-readme-stats.vercel.app/api?username=Heart-Beats&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-Beats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href=#><img src="contributions.svg"></a>
